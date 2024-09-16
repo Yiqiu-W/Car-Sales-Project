@@ -7,3 +7,7 @@ The "Vehicle Sales and Market Trends Dataset" provides a detailed overview of ve
 The comprehensive nature of the dataset makes it an excellent resource for analyzing consumer preferences, market behavior, and pricing dynamics in the automotive sector.
 
 Data Source: https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
+
+This analysis aims to explore key trends within the automotive market by focusing on vehicle sales over time, the impact of vehicle condition and mileage on selling prices, and the relationship between Manheim Market Report (MMR) values and actual sale prices. Additionally, the study identifies the most popular vehicle makes and models, offering business and market insights. 
+
+By examining these factors, the analysis provides a data-driven understanding of market behavior and pricing strategies, with potential applications for dealerships, automotive professionals, and financial institutions.
